@@ -1,5 +1,5 @@
 module.exports = {
-	title: "DSi Guide",
+	title: "test",
 	description: "The complete guide to modding your Nintendo DSi",
 
 	search: "Search"
